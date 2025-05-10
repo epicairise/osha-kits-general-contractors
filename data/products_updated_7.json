@@ -1,0 +1,52 @@
+[
+  {
+    "position": 1,
+    "name": "Labelmaster OSHA Compliance Kit",
+    "slug": "labelmaster-osha-kit",
+    "description": "All-in-one OSHA binder kit with training logs, safety posters, and compliance forms.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/labelmaster-osha-kit.jpg",
+    "target_audience_match": "Ideal for busy general contractors who just want to pass inspections without drowning in paperwork.",
+    "price": "From $119",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "J.J. Keller OSHA Construction Compliance Kit",
+    "slug": "jj-keller-construction-kit",
+    "description": "Tailored OSHA compliance kit for jobsite safety and training tracking.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/jj-keller-construction-kit.jpg",
+    "target_audience_match": "Built for GCs juggling multiple sites \u2014 makes staying OSHA-compliant one less thing to stress about.",
+    "price": "From $149",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "Safety Services Company Contractor Safety Kit",
+    "slug": "safety-services-contractor-kit",
+    "description": "Customizable OSHA safety manual and training tools for small-to-mid contractors.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/safety-services-contractor-kit.jpg",
+    "target_audience_match": "Great for contractors who want a compliance solution that fits their size and style \u2014 without the cookie-cutter feel.",
+    "price": "From $179",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "Avery Products Construction Site OSHA Kit",
+    "slug": "avery-osha-kit",
+    "description": "Printable and editable OSHA signage and checklists for active jobsites.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/avery-osha-kit.jpg",
+    "target_audience_match": "Perfect for hands-on GCs who like to tweak and print their own site materials on the fly.",
+    "price": "From $89",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "National Safety Compliance OSHA Construction Kit",
+    "slug": "nsc-osha-kit",
+    "description": "Comprehensive kit with Spanish-English materials and toolbox talk scripts.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/nsc-osha-kit.jpg",
+    "target_audience_match": "Best for GCs with diverse teams \u2014 covers both English and Spanish training without missing compliance beats.",
+    "price": "From $139",
+    "data-link": "pending"
+  }
+]

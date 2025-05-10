@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ItemList",
+      "name": "Best OSHA Compliance Kits for General Contractors",
+      "url": "https://dir.querygap.com/osha-kits-general-contractors/",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Labelmaster OSHA Compliance Kit",
+          "url": "https://dir.querygap.com/osha-kits-general-contractors/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/labelmaster-osha-kit.jpg",
+          "description": "All-in-one OSHA binder kit with training logs, safety posters, and compliance forms.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "J.J. Keller OSHA Construction Compliance Kit",
+          "url": "https://dir.querygap.com/osha-kits-general-contractors/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/jj-keller-construction-kit.jpg",
+          "description": "Tailored OSHA compliance kit for jobsite safety and training tracking.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Safety Services Company Contractor Safety Kit",
+          "url": "https://dir.querygap.com/osha-kits-general-contractors/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/safety-services-contractor-kit.jpg",
+          "description": "Customizable OSHA safety manual and training tools for small-to-mid contractors.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Avery Products Construction Site OSHA Kit",
+          "url": "https://dir.querygap.com/osha-kits-general-contractors/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/avery-osha-kit.jpg",
+          "description": "Printable and editable OSHA signage and checklists for active jobsites.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "National Safety Compliance OSHA Construction Kit",
+          "url": "https://dir.querygap.com/osha-kits-general-contractors/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/nsc-osha-kit.jpg",
+          "description": "Comprehensive kit with Spanish-English materials and toolbox talk scripts.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do general contractors need an OSHA compliance kit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, general contractors are required to maintain OSHA documentation, provide safety training, and display required posters \u2014 kits simplify all of this."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should be included in an OSHA compliance kit for construction?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Key items include injury logs, training records, hazard communication programs, safety posters, and documentation templates for toolbox talks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are these OSHA kits updated to current regulations?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Reputable kits are updated annually to reflect changes in OSHA standards and construction-specific compliance needs."
+          }
+        }
+      ]
+    }
+  ]
+}
